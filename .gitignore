@@ -1,0 +1,13 @@
+node_modules
+dist
+.env
+.env.local
+.claude/
+
+# dev logs
+dev-*.log
+dev-*.err.log
+
+# screenshots
+page.png
+page-fixed.png
